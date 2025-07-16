@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+cBXf71CA8RnRIB7fXWWMD7kSLZZQsVSsYZNBAb3hSs=",
+  "Source": "CotoBirthdayBooking.Api",
+  "BasePath": "_content/CotoBirthdayBooking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\bin\Debug\net8.0\CotoBirthdayBooking.Domain.deps.json
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\bin\Debug\net8.0\CotoBirthdayBooking.Domain.dll
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\bin\Debug\net8.0\CotoBirthdayBooking.Domain.pdb
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\obj\Debug\net8.0\CotoBirthdayBooking.Domain.csproj.AssemblyReference.cache
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\obj\Debug\net8.0\CotoBirthdayBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\obj\Debug\net8.0\CotoBirthdayBooking.Domain.AssemblyInfoInputs.cache
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\obj\Debug\net8.0\CotoBirthdayBooking.Domain.AssemblyInfo.cs
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\obj\Debug\net8.0\CotoBirthdayBooking.Domain.csproj.CoreCompileInputs.cache
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\obj\Debug\net8.0\CotoBirthdayBooking.Domain.dll
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\obj\Debug\net8.0\refint\CotoBirthdayBooking.Domain.dll
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\obj\Debug\net8.0\CotoBirthdayBooking.Domain.pdb
+C:\freelance\CotoBirthdayBooking\CotoBirthdayBooking.Domain\obj\Debug\net8.0\ref\CotoBirthdayBooking.Domain.dll

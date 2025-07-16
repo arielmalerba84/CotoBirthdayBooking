@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: CotoBirthdayBooking.Api/Dockerfile
+    ports:
+      - "8082:8081"
+    restart: unless-stopped

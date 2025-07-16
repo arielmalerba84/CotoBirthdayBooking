@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CotoBirthdayBooking.Api.props" />
+</Project>

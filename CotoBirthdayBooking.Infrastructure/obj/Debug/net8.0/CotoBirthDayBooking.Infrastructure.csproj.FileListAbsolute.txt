@@ -1,0 +1,17 @@
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\bin\Debug\net8.0\CotoBirthdayBooking.Infrastructure.deps.json
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\bin\Debug\net8.0\CotoBirthdayBooking.Infrastructure.dll
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\bin\Debug\net8.0\CotoBirthdayBooking.Infrastructure.pdb
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\bin\Debug\net8.0\CotoBirthdayBooking.Application.dll
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\bin\Debug\net8.0\CotoBirthdayBooking.Domain.dll
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\bin\Debug\net8.0\CotoBirthdayBooking.Application.pdb
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\bin\Debug\net8.0\CotoBirthdayBooking.Domain.pdb
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\CotoBirthdayBooking.Infrastructure.csproj.AssemblyReference.cache
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\CotoBirthdayBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\CotoBirthdayBooking.Infrastructure.AssemblyInfoInputs.cache
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\CotoBirthdayBooking.Infrastructure.AssemblyInfo.cs
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\CotoBirthdayBooking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\CotoBirt.AD926CF4.Up2Date
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\CotoBirthdayBooking.Infrastructure.dll
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\refint\CotoBirthdayBooking.Infrastructure.dll
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\CotoBirthdayBooking.Infrastructure.pdb
+C:\freelance\CotoBirthdayBooking\CotoBirthDayBooking.Infrastructure\obj\Debug\net8.0\ref\CotoBirthdayBooking.Infrastructure.dll

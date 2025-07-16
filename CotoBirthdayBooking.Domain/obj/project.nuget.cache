@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "vM6O8O6FyoM=",
+  "success": true,
+  "projectFilePath": "C:\\freelance\\CotoBirthdayBooking\\CotoBirthdayBooking.Domain\\CotoBirthdayBooking.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.18\\microsoft.entityframeworkcore.8.0.18.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.18\\microsoft.entityframeworkcore.abstractions.8.0.18.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.18\\microsoft.entityframeworkcore.analyzers.8.0.18.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.logging\\8.0.1\\microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

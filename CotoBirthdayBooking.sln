@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotoBirthdayBooking.Domain", "CotoBirthdayBooking.Domain\CotoBirthdayBooking.Domain.csproj", "{A34A0C39-5A45-41D2-87F4-A865A33CAC2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotoBirthdayBooking.Application", "CotoBirthdayBooking.Application\CotoBirthdayBooking.Application.csproj", "{F06D0220-9521-4340-B806-F303EE926250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotoBirthdayBooking.Infrastructure", "CotoBirthDayBooking.Infrastructure\CotoBirthdayBooking.Infrastructure.csproj", "{9B804092-9C99-41D2-8C0D-E3E14CB1F794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotoBirthdayBooking.Api", "CotoBirthdayBooking.Api\CotoBirthdayBooking.Api.csproj", "{9DCDB1FF-90B8-4B36-BD6B-C97CFC5DD3A3}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{81DDED9D-158B-E303-5F62-77A2896D2A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotoBirthdayBooking.Tests", "..\CotoBirthdayBooking.Tests\CotoBirthdayBooking.Tests.csproj", "{E756A5CB-217D-BD68-0C83-0455C5AEEE49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34A0C39-5A45-41D2-87F4-A865A33CAC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34A0C39-5A45-41D2-87F4-A865A33CAC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34A0C39-5A45-41D2-87F4-A865A33CAC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34A0C39-5A45-41D2-87F4-A865A33CAC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06D0220-9521-4340-B806-F303EE926250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06D0220-9521-4340-B806-F303EE926250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06D0220-9521-4340-B806-F303EE926250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06D0220-9521-4340-B806-F303EE926250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B804092-9C99-41D2-8C0D-E3E14CB1F794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B804092-9C99-41D2-8C0D-E3E14CB1F794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B804092-9C99-41D2-8C0D-E3E14CB1F794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B804092-9C99-41D2-8C0D-E3E14CB1F794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCDB1FF-90B8-4B36-BD6B-C97CFC5DD3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCDB1FF-90B8-4B36-BD6B-C97CFC5DD3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCDB1FF-90B8-4B36-BD6B-C97CFC5DD3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCDB1FF-90B8-4B36-BD6B-C97CFC5DD3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E756A5CB-217D-BD68-0C83-0455C5AEEE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E756A5CB-217D-BD68-0C83-0455C5AEEE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E756A5CB-217D-BD68-0C83-0455C5AEEE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E756A5CB-217D-BD68-0C83-0455C5AEEE49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F9D0D44-13F2-47DB-B07C-B713A30FDFDC}
+	EndGlobalSection
+EndGlobal

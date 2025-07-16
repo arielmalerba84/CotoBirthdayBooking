@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "CotoBirthDayBooking.Api.Controllers.ReservaController",
+    "Method": "CrearReserva",
+    "RelativePath": "api/Reserva",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CotoBirthDayBooking.Application.DTOs.ReservaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CotoBirthDayBooking.Api.Controllers.ReservaController",
+    "Method": "ObtenerReservasPorFecha",
+    "RelativePath": "api/Reserva/{fecha}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fecha",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CotoBirthDayBooking.Api.Controllers.SalonController",
+    "Method": "Get",
+    "RelativePath": "api/Salon",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CotoBirthDayBooking.Application.DTOs.SalonResponse, CotoBirthdayBooking.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
