@@ -21,7 +21,7 @@ API REST para la gestión de reservas de salones de cumpleaños.
 
 1. Clonar el repo:
    ```bash
-   git clone https://github.com/tu-usuario/birthday-booking.git
+   https://github.com/arielmalerba84/CotoBirthdayBooking).git
    cd birthday-booking
    ```
 
